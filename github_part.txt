@@ -1,0 +1,1 @@
+Version control is important because it allows multiple people to work together on code. Each person can edit a local copy while keeping the original untouched on the main branch. It also allows you to track others changes.
